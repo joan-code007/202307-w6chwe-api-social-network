@@ -1,0 +1,84 @@
+{
+  "Users": [
+    {
+      "id": "1",
+      "name": "Juan Carlos",
+      "age": "31-05-1973",
+      "description": "The king of code III",
+      "isFrenemy": true,
+      "image": ""
+    },
+    {
+      "id": "2",
+      "name": "Marius",
+      "age": "31-08-1960",
+      "description": "Dan Abramov's unrecognized cousin. Only works with MacOS",
+      "isFrenemy": false,
+      "image": ""
+    },
+    {
+      "id": "3",
+      "name": "Robert",
+      "age": "31-07-1992",
+      "description": "Marius's right hand",
+      "isFrenemy": false,
+      "image": ""
+    },
+    {
+      "id": "4",
+      "name": "Berta",
+      "age": "31-07-1997",
+      "description": "",
+      "isFrenemy": false,
+      "image": ""
+    },
+    {
+      "id": "5",
+      "name": "Joze Raúl",
+      "age": "31-07-1992",
+      "description": "The neighborhood greengrocer",
+      "isFrenemy": false,
+      "image": ""
+    },
+    {
+      "id": "6",
+      "name": "Joselito",
+      "age": "31-07-1980",
+      "description": "The boy with the golden voice",
+      "isFrenemy": true,
+      "image": ""
+    },
+    {
+      "id": "7",
+      "name": "Andrea-chi",
+      "age": "31-07-1992",
+      "description": "The queen of Tai chi",
+      "isFrenemy": true,
+      "image": ""
+    },
+    {
+      "id": "8",
+      "name": "Eudaldlinho",
+      "age": "31-07-1999",
+      "description": "The magic of professional football",
+      "isFrenemy": true,
+      "image": ""
+    },
+    {
+      "id": "9",
+      "name": "Jacint-Away",
+      "age": "31-07-2000",
+      "description": "The king of chess",
+      "isFrenemy": true,
+      "image": ""
+    },
+    {
+      "id": "10",
+      "name": "Gloria",
+      "age": "31-07-1985",
+      "description": "The wisdom",
+      "isFrenemy": true,
+      "image": ""
+    }
+  ]
+}
