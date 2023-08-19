@@ -1,85 +1,85 @@
 {
   "Users": [
     {
-      "id": "1",
+      "id": 1,
       "name": "Marius",
-      "age": "31-08-1960",
+      "dateOfBirth": "31-08-1960",
       "description": "I am so clever that sometimes I don’t understand a single word of what I am saying.",
       "isFrenemy": false,
-      "image": "https://discord.com/channels/1142377544222507020/1142377544805519463/1142378368059326555"
+      "image": "https://cdn.discordapp.com/attachments/1142377544805519463/1142378367795081266/Marius.png"
     },
     {
-      "id": "2",
+      "id": 2,
       "name": "Lorena",
-      "age": "31-05-1973",
+      "dateOfBirth": "31-05-1973",
       "description": "I am a Queen because I know how to govern myself.",
       "isFrenemy": true,
-      "image": "https://discord.com/channels/1142377544222507020/1142377544805519463/1142378760792985620"
+      "image": "https://cdn.discordapp.com/attachments/1142377544805519463/1142378760579072070/Lorena.png"
     },
     {
-      "id": "3",
+      "id": 3,
       "name": "Robert",
-      "age": "31-07-1992",
+      "dateOfBirth": "31-07-1992",
       "description": "All the things I really like to do are either immoral, illegal or fattening.",
       "isFrenemy": false,
-      "image": "https://discord.com/channels/1142377544222507020/1142377544805519463/1142377680130560070"
+      "image": "https://cdn.discordapp.com/attachments/1142377544805519463/1142377679841132684/Robert.png"
     },
     {
-      "id": "4",
+      "id": 4,
       "name": "Berta",
-      "age": "31-07-1997",
+      "dateOfBirth": "31-07-1997",
       "description": "If I had to describe myself in one word, it would be bad at following directions.",
       "isFrenemy": false,
-      "image": "https://discord.com/channels/1142377544222507020/1142377544805519463/1142378876002115605"
+      "image": "https://cdn.discordapp.com/attachments/1142377544805519463/1142378875758858291/Berta.png"
     },
     {
-      "id": "5",
+      "id": 5,
       "name": "Joze Raúl",
-      "age": "31-07-1992",
+      "dateOfBirth": "31-07-1992",
       "description": "I give myself sometimes admirable advice, but I am incapable of taking it.",
       "isFrenemy": false,
-      "image": "https://discord.com/channels/1142377544222507020/1142377544805519463/1142379017165606933"
+      "image": "https://cdn.discordapp.com/attachments/1142377544805519463/1142379016930742282/Raul.png"
     },
     {
-      "id": "6",
+      "id": 6,
       "name": "Joselito",
-      "age": "31-07-1980",
+      "dateOfBirth": "31-07-1980",
       "description": "People say nothing is impossible, but I do nothing every day.",
       "isFrenemy": true,
-      "image": "https://discord.com/channels/1142377544222507020/1142377544805519463/1142379145486139403"
+      "image": "https://media.discordapp.net/attachments/1142377544805519463/1142379145238683678/Joselito.png"
     },
     {
-      "id": "7",
+      "id": 7,
       "name": "Jacint-Away",
-      "age": "31-07-2000",
+      "dateOfBirth": "31-07-2000",
       "description": "I refuse to answer that question on the grounds that I don’t know the answer.",
       "isFrenemy": true,
-      "image": "https://discord.com/channels/1142377544222507020/1142377544805519463/1142379481483444234"
+      "image": "https://cdn.discordapp.com/attachments/1142377544805519463/1142379481273749565/Jacint.png"
     },
     {
-      "id": "8",
+      "id": 8,
       "name": "Eudaldlinho",
-      "age": "31-07-1999",
+      "dateOfBirth": "31-07-1999",
       "description": "I refuse to join any club that would have me as a member.",
       "isFrenemy": true,
-      "image": "https://discord.com/channels/1142377544222507020/1142377544805519463/1142379725008937061"
+      "image": "https://cdn.discordapp.com/attachments/1142377544805519463/1142379724782440488/Eudald.png"
     },
 
     {
-      "id": "9",
+      "id": 9,
       "name": "Gloria",
-      "age": "31-07-1985",
+      "dateOfBirth": "31-07-1985",
       "description": "My opinions may have changed, but not the fact that I’m right.",
       "isFrenemy": true,
-      "image": "https://discord.com/channels/1142377544222507020/1142377544805519463/1142379905749880873"
+      "image": "https://cdn.discordapp.com/attachments/1142377544805519463/1142379905548570624/Gloria.png"
     },
     {
-      "id": "10",
+      "id": 10,
       "name": "Andrea-chi",
-      "age": "31-07-1992",
-      "description": "The queen of Tai chi",
+      "dateOfBirth": "31-07-1992",
+      "description": "I asked God for a bike, but I know God doesn’t work that way. So I stole a bike and asked for forgiveness.",
       "isFrenemy": true,
-      "image": "I asked God for a bike, but I know God doesn’t work that way. So I stole a bike and asked for forgiveness."
+      "image": "https://cdn.discordapp.com/attachments/1142377544805519463/1142459865042780350/Andrea.png"
     }
   ]
 }
